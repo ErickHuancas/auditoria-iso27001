@@ -1,0 +1,10 @@
+2026-11-13T15:02:54-05:00
+=== Carpetas ===
+drwxr-xr-x 1 SharkCode 197121 0 Nov 13 14:53 empresa/finanzas/
+drwxr-xr-x 1 SharkCode 197121 0 Nov 13 14:53 empresa/produccion/
+drwxr-xr-x 1 SharkCode 197121 0 Nov 13 14:53 empresa/rrhh/
+=== Archivos ===
+644 SharkCode 197121 empresa/finanzas/planilla.xlsx
+644 SharkCode 197121 empresa/produccion/clientes.db
+644 SharkCode 197121 empresa/rrhh/empleados.csv
+=== Archivos con escritura para otros ===
